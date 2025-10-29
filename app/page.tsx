@@ -99,6 +99,8 @@ export default function Home() {
       </section>
 
       {/* About Daruma Section */}
+
+      {/* About Daruma Section */}
       <section id="about" className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-white to-gray-50 relative overflow-hidden">
         <div className="absolute top-0 left-0 w-full h-full pattern-grid opacity-50"></div>
 
